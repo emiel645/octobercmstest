@@ -1,0 +1,20 @@
+v1.0.1:
+    - 'Initialize plugin'
+v1.0.2:
+    - 'Created table emielliefhebber_testplugin_'
+    - builder_table_create_emielliefhebber_testplugin_.php
+v1.0.3:
+    - 'Updated table emielliefhebber_testplugin_'
+    - builder_table_update_emielliefhebber_testplugin_slangen.php
+v1.0.4:
+    - 'Updated table emielliefhebber_testplugin_slangen'
+    - builder_table_update_emielliefhebber_testplugin_slangen_2.php
+v1.0.5:
+    - 'Updated table emielliefhebber_testplugin_slangen'
+    - builder_table_update_emielliefhebber_testplugin_slangen_3.php
+v1.0.6:
+    - 'Drop table emielliefhebber_testplugin_slangen'
+    - builder_table_delete_emielliefhebber_testplugin_slangen.php
+v1.0.7:
+    - 'Created table emielliefhebber_testplugin_slangen'
+    - builder_table_create_emielliefhebber_testplugin_slangen.php

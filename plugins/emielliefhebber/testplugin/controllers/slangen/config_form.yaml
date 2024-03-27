@@ -1,0 +1,10 @@
+name: Slangen
+form: $/emielliefhebber/testplugin/models/slangen/fields.yaml
+modelClass: EmielLiefhebber\Testplugin\Models\Slangen
+defaultRedirect: emielliefhebber/testplugin/slangen
+create:
+    redirect: 'emielliefhebber/testplugin/slangen/update/:id'
+    redirectClose: emielliefhebber/testplugin/slangen
+update:
+    redirect: emielliefhebber/testplugin/slangen
+    redirectClose: emielliefhebber/testplugin/slangen

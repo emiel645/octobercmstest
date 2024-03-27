@@ -1,0 +1,22 @@
+fields:
+    slangen:
+        label: Slang
+        span: full
+        type: text
+    description:
+        label: description
+        size: ''
+        span: full
+        type: richeditor
+    bijzonderheden:
+        label: bijzonderheden
+        size: ''
+        span: full
+        type: textarea
+    slug:
+        label: slug
+        span: auto
+        defaultFrom: slangen
+        dependsOn:
+            - slangen
+        type: text

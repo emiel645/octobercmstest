@@ -1,0 +1,12 @@
+list: $/emielliefhebber/testplugin/models/slangen/columns.yaml
+modelClass: EmielLiefhebber\Testplugin\Models\Slangen
+title: Slangen
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'emielliefhebber/testplugin/slangen/update/:id'

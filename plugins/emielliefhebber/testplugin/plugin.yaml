@@ -1,0 +1,11 @@
+plugin:
+    name: 'emielliefhebber.testplugin::lang.plugin.name'
+    description: 'emielliefhebber.testplugin::lang.plugin.description'
+    author: 'Emiel Liefhebber'
+    icon: oc-icon-apple
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Slangen
+        url: emielliefhebber/testplugin/slangen
+        icon: icon-leaf
